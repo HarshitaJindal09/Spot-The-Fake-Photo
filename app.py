@@ -67,13 +67,13 @@ st.sidebar.markdown("""
 
 **Dataset:** Real vs Screen Images
 
-**Validation Accuracy:** **100%***
+**Validation Accuracy:** **100%**
 
 **Inference Time:** **31.70 ms/image**
 
 **FPS:** **31.54**
 
-\*Validation accuracy was achieved on the provided dataset.
+*Validation accuracy was achieved on the provided dataset.*
 """)
 
 # -------------------------------------------------
